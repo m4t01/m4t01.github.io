@@ -35,7 +35,7 @@ h2 {
 }
 
 .highlight {
-    color: #99FF66;
+    color: #edff00;
 }
 
 .page-container {
@@ -142,13 +142,13 @@ h2 {
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #99FF66;
-    border-bottom: 1px solid #99FF66;
+    color: #edff00;
+    border-bottom: 1px solid #edff00;
 }
 
 .cd-slider-nav li.selected a+.circle,
 .navbar .navbar-nav .nav-item .nav-link:hover+.circle {
-    background-color: #99FF66;
+    background-color: #edff00;
 }
 
 .navbar-toggler-icon {
@@ -169,7 +169,7 @@ h2 {
 
 .tm-link-white:hover,
 .tm-link-white:focus {
-    color: #99FF66;
+    color: #edff00;
 }
 
 .cd-hero-slider {
@@ -462,7 +462,7 @@ figure.effect-julia:hover p {
 }
 
 .form-control:focus {
-    border-bottom: 1px solid #99FF66;
+    border-bottom: 1px solid #edff00;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
